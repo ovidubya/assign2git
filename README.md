@@ -3,4 +3,4 @@
 First Change
 Ovadia Shalom
 
-<img src="https://imgflip.com/i/274vva">
+<img src="https://i.imgflip.com/274vva.jpg">
